@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "base_track": "@location",
+  "base_artist": "Peterparker69",
+  "createdAt": "2026-04-01T13:34:46.763831Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Drop a Location",
+      "artist": "YG feat. Mozzy & A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/01_Drop_a_Location_YG_feat._Mozzy_&_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Drop A Location (feat. A Boogie Wit da Hoodie)",
+      "artist": "YG & Mozzy",
+      "has_synced": true,
+      "path": "select/02_Drop_A_Location_(feat._A_Boogie_Wit_da_Hoodie)_YG_&_Mozzy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Echo Location",
+      "artist": "Dean",
+      "has_synced": false,
+      "path": "select/03_Echo_Location_Dean.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Location",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Tess Mohr",
+      "has_synced": false,
+      "path": "select/04_Location_Scott_Bradlee's_Postmodern_Jukebox_feat._Tess_Mohr.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Deth Is U [CODENAME_FINAL TOUCH LOCATION]",
+      "artist": "Fire-Toolz",
+      "has_synced": false,
+      "path": "select/05_All_Deth_Is_U_[CODENAME_FINAL_TOUCH_LOCATION]_Fire-Toolz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Relevant Shambala Texts [CODENAME_INITIAL TOUCH LOCATION]",
+      "artist": "Fire-Toolz",
+      "has_synced": false,
+      "path": "select/06_Relevant_Shambala_Texts_[CODENAME_INITIAL_TOUCH_LOCATION]_Fire-Toolz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Location",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/07_Location_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Location Unknown ◐",
+      "artist": "HONNE feat. Georgia",
+      "has_synced": true,
+      "path": "select/08_Location_Unknown_◐_HONNE_feat._Georgia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Location Unknown ◐",
+      "artist": "HONNE Georgia",
+      "has_synced": true,
+      "path": "select/09_Location_Unknown_◐_HONNE_Georgia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Location (feat. Burna Boy)",
+      "artist": "Dave feat. Burna Boy",
+      "has_synced": true,
+      "path": "select/10_Location_(feat._Burna_Boy)_Dave_feat._Burna_Boy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Location",
+      "artist": "Dave",
+      "has_synced": true,
+      "path": "select/11_Location_Dave.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Location",
+      "artist": "Dave feat. Burna Boy",
+      "has_synced": true,
+      "path": "select/12_Location_Dave_feat._Burna_Boy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Location",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/13_Location_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Location",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/14_Location_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Location (feat. Lil Wayne & Kehlani) - Remix",
+      "artist": "Khalid feat. Lil Wayne & Kehlani",
+      "has_synced": false,
+      "path": "select/15_Location_(feat._Lil_Wayne_&_Kehlani)_-_Remix_Khalid_feat._Lil_Wayne_&_Kehlani.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Location (Remix)",
+      "artist": "Khalid f./Lil Wayne & Kehlani",
+      "has_synced": true,
+      "path": "select/16_Location_(Remix)_Khalid_f._Lil_Wayne_&_Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Location Unknown ◐ (ft. Georgia)",
+      "artist": "Honne",
+      "has_synced": true,
+      "path": "select/17_Location_Unknown_◐_(ft._Georgia)_Honne.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Location",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/18_Location_Khalid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "@location",
+      "artist": "Peterparker69",
+      "has_synced": false,
+      "path": "select/pl_01_@location_Peterparker69.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "@location",
+      "artist": "Peterparker69",
+      "has_synced": true,
+      "path": "select/localdb_01_@location_Peterparker69.lrc",
+      "repo_name": "tjiWuJDIJzE"
+    }
+  ]
+}
